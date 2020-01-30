@@ -1,6 +1,6 @@
 // lang::CwC
 
-#include "myString.h"
+#include "string.h"
 #include "object.h"
 #include "queue.h"
 
